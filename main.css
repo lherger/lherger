@@ -1,0 +1,909 @@
+body {	
+	 background-image: url("sources/background.png");
+	 background-size: auto;}
+	 
+	
+h1 {font-family: 'Oswald', sans-serif, bold;
+	text-align: center;
+	font-size: 400%;
+	color: #525452;
+	margin-left: 30px;
+	margin-bottom: 0px;
+	float: block;}
+	
+h2 {font-family: 'Dosis', sans-serif;
+	font-size: 100%;
+	text-align: center;
+	color: white;
+	margin-left: 20px;
+	margin-top: 0px;
+	}
+	
+h3 {font-family: 'Dosis', sans-serif;
+	font-size: 100%;
+	text-align: center;
+	color: #525452;
+	margin-top: 10px;
+	}
+a {color: white;}	
+a:hover {color:pink;}
+	
+.subtitle { font-family: 'Dosis', sans-serif;
+			font-size: 25%;
+			text-align: left;
+			margin-left: 70px;
+			margin-right:200px;}	
+
+.design h4 { 
+	font-family: 'Oswald', sans-serif, bold;
+	text-align: left;
+	margin-left: 20px;
+	margin-top: 0px;
+	font-size: 90%; }	
+	
+.design h5 { text-align: left;}
+
+
+
+
+
+.hello img {margin-top: 25%;}
+
+nav ul {
+				display:inline-block; 
+				list-style-type: none;}	
+				
+nav {text-align: center;}
+				
+#pages-nav li {display:inline-block;
+				font-family: 'Oswald', sans-serif, bold;
+				font-size: 1em;
+				padding: 10px;
+			 	border-style: solid;
+			 	border-width: 2px;
+			 	border-color: white; 
+			 	background-color:none; 
+			 	margin-bottom: 5px;
+			 	margin-top: 5px;
+			 	margin-right: 0;
+			 	text-align: center;
+				
+				
+				
+				}
+#pages-nav a {display:block;}
+
+#pages-nav li:hover {background-color: white; }
+#pages-nav li:active {background-color: #FF007A; }
+
+#nav-text {font-family: 'Oswald', sans-serif, bold;}
+
+
+
+
+    
+#footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    border: none;
+	background-color: #000;
+	opacity: .5;
+	padding: 15px;
+	display: block;
+	
+} 
+
+#footer .icons { margin-left: 50%;
+			text-align: center;
+			display: inline;
+			}
+.icon-links li {
+    display: inline;
+  
+}		
+
+#footer .footer-text {	font-family: 'Dosis', sans-serif; 
+						font-size: 80%;
+						color: white;
+						
+						text-align: center;
+						margin: 15px;}
+#footer ul {padding: 0;
+list-style: none;}
+
+#footer a:hover {opacity:.8;}
+
+
+
+
+/* social media icons */
+
+
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+p > a:hover{
+    color: #d9d9d9;
+    text-decoration:  underline;
+}
+
+
+ul {
+    
+    list-style: none;
+}
+.footer-social-icons {
+    width: 40%;
+    display:block;
+    margin: 0 auto;
+}
+.social-icon {
+    color: #fff;
+}
+ul.social-icons {
+    margin-top: 0%;
+    margin-left: 40%;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 0px;
+}
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+.fa-facebook {
+    padding:0px 0px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-facebook:hover {
+    background-color: #3d5b99;
+}
+
+
+/* end social media icons */
+
+
+
+
+
+
+
+
+
+/* nav text */
+
+#wrapper .text {position: fixed; 
+bottom: 320px; 
+left: 140px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif, bold;
+	font-size: 100%;
+	color: white;
+	background-color: none;
+}
+
+
+#wrapper:hover .text {
+visibility: visible;} 
+	
+	
+#wrapper .text2 {position: fixed; 
+bottom: 200px; 
+left: 350px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif;
+	font-size: 100%;
+	color: white;
+	background-color: none;}
+
+
+#wrapper:hover .text2 {
+visibility: visible;} 
+
+
+#wrapper .text3 {position: fixed; 
+bottom: 300px; 
+right: 350px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif;
+	font-size: 100%;
+	color: white;
+	background-color: none;
+}
+
+#wrapper:hover .text3 {
+visibility: visible;} 	
+
+
+
+#wrapper .text4 {position: fixed; 
+bottom: 340px; 
+right: 50px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif;body {	
+	 background-image: url("sources/background.png");
+	 background-size: auto;}
+	 
+	
+h1 {font-family: 'Oswald', sans-serif, bold;
+	text-align: center;
+	font-size: 400%;
+	color: #525452;
+	margin-left: 20px;
+	margin-bottom: 0px;
+	float: block;}
+	
+h2 {font-family: 'Oswald', sans-serif;
+	font-size: 100%;
+	text-align: center;
+	color: white;
+	margin-left: 20px;
+	margin-top: 0px;
+	}
+	
+h3 {font-family: 'Oswald', sans-serif;
+	font-size: 100%;
+	text-align: center;
+	color: #525452;
+	margin-top: 10px;
+	}
+	
+.design h2 { text-align: left;}	
+.design h4 { 
+	font-family: 'Oswald', sans-serif;
+	text-align: left;
+	margin-left: 20px;
+	margin-top: 0px;
+	font-size: 90%; }	
+	
+.design h5 { text-align: left;}
+
+
+
+
+
+.hello img {margin-top: 25%;}
+	
+
+
+    
+#footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    border: none;
+	background-color: #525452;
+	padding: 15px;
+	
+} 
+
+#footer .footer-text {	font-family:'Oswald', sans-serif, bold; 
+						font-size: 60%;
+						color: white;
+						background-color: #525452;
+						text-align: center;
+						margin: 15px;}
+
+/* nav text */
+
+#wrapper .text {position: fixed; 
+bottom: 320px; 
+left: 140px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif, bold;
+	font-size: 100%;
+	color: white;
+	background-color: none;
+}
+
+
+#wrapper:hover .text {
+visibility: visible;} 
+	
+	
+#wrapper .text2 {position: fixed; 
+bottom: 200px; 
+left: 350px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif;
+	font-size: 100%;
+	color: white;
+	background-color: none;}
+
+
+#wrapper:hover .text2 {
+visibility: visible;} 
+
+
+#wrapper .text3 {position: fixed; 
+bottom: 300px; 
+right: 350px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif;
+	font-size: 100%;
+	color: white;
+	background-color: none;
+}
+
+#wrapper:hover .text3 {
+visibility: visible;} 	
+
+
+
+#wrapper .text4 {position: fixed; 
+bottom: 340px; 
+right: 50px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif;
+	font-size: 100%;
+	color: white;
+	background-color: none;
+}
+
+#wrapper:hover .text4 {
+visibility: visible;} 
+
+
+
+
+/* welcome css */
+#wrapper-welcome .text-welcome {position: fixed; 
+bottom: 320px; 
+left: 200px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif, bold;
+	font-size: 400%;
+	color: white;
+	background-color: none;
+}
+
+
+#wrapper-welcome:hover .text-welcome {
+visibility: visible;} 
+
+#wrapper-welcome img {display: inline; 
+		float: none; 
+		clear: none;
+		position: relative;
+		width: 20% 
+		margin: 30px;
+		margin-left: 5%;}
+		
+#wrapper-welcome:hover img {opacity: .08;}
+
+
+
+
+
+/* nav selfies */
+#wrapper img {display: inline; 
+		float: left; 
+		clear: none;
+		width: 20% 
+		margin: 30px;
+		margin-left: 5%;}
+		
+#wrapper:hover img {opacity: .08;}
+     
+	font-size: 100%;
+	color: white;
+	background-color: none;
+}
+
+#wrapper:hover .text4 {
+visibility: visible;} 
+
+
+
+
+/* welcome css */
+#wrapper-welcome .text-welcome {position: fixed; 
+bottom: 320px; 
+left: 200px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif, bold;
+	font-size: 400%;
+	color: white;
+	background-color: none;
+}
+
+
+#wrapper-welcome:hover .text-welcome {
+visibility: visible;} 
+
+#wrapper-welcome img {display: inline; 
+		float: none; 
+		clear: none;
+		position: relative;
+		width: 20% 
+		margin: 30px;
+		margin-left: 5%;}
+		
+#wrapper-welcome:hover img {opacity: .08;}
+
+
+
+
+
+/* nav selfies */
+#wrapper img {display: inline; 
+		float: left; 
+		clear: none;
+		width: 20% 
+		margin: 30px;
+		margin-left: 5%;}
+		
+#wrapper:hover img {opacity: .08;}
+
+
+
+
+
+/* back button */
+#wrapper-back .text-back {position: fixed; 
+top: 50px; 
+left: 80px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif, bold;
+	font-size: 150%;
+	color: white;
+	background-color: none;
+}
+
+
+#wrapper-back:hover .text-back {
+visibility: visible;} 
+
+#wrapper-back img {display: inline; 
+		float: none; 
+		clear: none;
+		position: relative;
+		width: 30%% 
+		margin: 0px;
+		margin-left: 20px;}
+		
+#wrapper-back:hover img {opacity: .08;}
+
+
+
+
+
+
+/* design display css */
+#column .text-design {position: relative; 
+bottom: 500px; 
+left: 60px; 
+visibility: hidden;
+	
+
+	font-family: 'Oswald', sans-serif, bold;
+	font-size: 150%;
+	color: white;
+	background-color: none;
+
+}
+
+#column:hover .text-design {
+visibility: visible;} 
+
+#column img {display: inline; 
+	
+		
+		position: relative;
+
+	}
+		
+#column:hover img {opacity: .08;}
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+}
+
+.header {
+    text-align: center;
+    padding: 32px;
+}
+
+/* Create four equal columns that floats next to each other */
+#column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
+
+#column img {
+    margin-top: 12px;
+}
+
+/* Clear floats after the columns */
+#row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media (max-width: 800px) {
+    #column {
+        width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    #column {
+        width: 100%;
+    }
+}
+
+
+
+
+
+/* CSS for about me page */
+#about-me img {display: block;
+float: left;
+clear: none;
+margin: 2%;
+margin-top:0;
+margin-bottom:0;}
+
+#about-me p {
+	font-family: 'Oswald', sans-serif;
+	font-size: 100%;
+	text-align: left;
+	color: white;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom:0;
+
+}
+
+
+
+
+
+
+
+/* experiment */
+
+#box {
+  width: 20%;
+  height: 20%;
+ 
+  border-bottom: .2em solid #fff;
+  border-right: .2em solid #fff;
+  margin: 5% auto 0 auto;
+  
+  background-size: cover;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#overlay {
+  background: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  padding: 45px 0 66px 0;
+  opacity: 0;
+  -webkit-transition: opacity 0.25s ease;
+  -moz-transition: opacity 0.25s ease;
+}
+
+#box:hover #overlay {
+  opacity: 1;
+}
+
+#plus {
+  font-family: Helvetica;
+  font-weight: 900;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1em;
+}
+
+
+
+/* experiment */
+
+
+#rig {
+    max-width:100%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 10%; /*center aligned*/
+    padding:0;
+    font-size:0; /* Remember to change it back to normal font size if have captions */
+    list-style:none;
+    background-color:none;
+}
+#rig li {
+    display: inline-block;
+    *display:inline;/*for IE6 - IE7*/
+    width:25%;
+    vertical-align:middle;
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+}
+        
+/* The wrapper for each item */
+.rig-cell {
+    /*margin:12px;
+    box-shadow:0 0 6px rgba(0,0,0,0.3);*/
+    display:block;
+    position: relative;
+    overflow:hidden;
+}
+        
+/* If have the image layer */
+.rig-img {
+    display:block;
+    width: 100%;
+    height: auto;
+    border:none;
+    transform:scale(1);
+    transition:all 1s;
+}
+
+#rig li:hover .rig-img {
+    transform:scale(1.05);
+}
+        
+/* If have the overlay layer */
+.rig-overlay {
+    position: absolute;
+    display:block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background: #FF007A url(img/link.png) no-repeat center 20%;
+    background-size:50px 50px;
+    opacity:0;
+    filter:alpha(opacity=0);/*For IE6 - IE8*/
+    transition:all 0.6s;
+}
+#rig li:hover .rig-overlay {
+    opacity:0.8;
+}
+
+/* If have captions */
+.rig-text {
+    display:block;
+    padding:0 30px;
+    box-sizing:border-box;
+    position:absolute;
+    left:0;
+    width:100%;
+    text-align:center;
+    text-transform:capitalize;
+    font-size:18px;
+    font-weight:bold;
+    font-family: 'Oswald', sans-serif;
+    font-weight:normal!important;
+    top:40%;
+    color:white;
+    opacity:0;
+    filter:alpha(opacity=0);/*For older IE*/
+    transform:translateY(-20px);
+    transition:all .3s;
+}
+#rig li:hover .rig-text {
+    transform:translateY(0px);
+    opacity:0.9;
+}
+
+.rig-subtext {
+    display:block;
+    padding:0 30px;
+    box-sizing:border-box;
+    position:absolute;
+    left:0;
+    width:100%;
+    text-align:center;
+    text-transform:capitalize;
+    font-size:10px;
+    font-weight:bold;
+    font-family: 'Oswald', sans-serif;
+    font-weight:normal!important;
+    top:60%;
+    color:white;
+    opacity:0;
+    filter:alpha(opacity=0);/*For older IE*/
+    transform:translateY(-20px);
+    transition:all .3s;
+}
+#rig li:hover .rig-subtext {
+    transform:translateY(0px);
+    opacity:0.9;
+}
+
+
+
+
+
+@media (max-width: 9000px) {
+    #rig li {
+        width:25%;
+    }
+}
+
+@media (max-width: 700px) {
+    #rig li {
+        width:33.33%;
+    }
+}
+
+@media (max-width: 550px) {
+    #rig li {
+        width:50%;
+    }
+}
+
+
+
+
+/* POP UP TEST FOR WORK */
+
+
+
+* {
+  box-sizing: border-box;
+}
+body {
+  line-height: 1.5;
+  
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+p {
+  font-weight: 300;
+  margin: 0 0 2.4rem 0;
+}
+
+
+/**
+ * Material Modal CSS
+ */
+.modal {
+  will-change: visibility, opacity;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  z-index: 1000;
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  -webkit-transition-delay: $modal-delay;
+          transition-delay: $modal-delay;
+}
+.modal--active {
+  visibility: visible;
+  opacity: 1;
+}
+.modal--align-top {
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+.modal__bg {
+  background: transparent;
+}
+.modal__dialog {
+  max-width: 600px;
+  padding: 1.2rem;
+}
+.modal__content {
+  will-change: transform, opacity;
+  position: relative;
+  padding: 2.4rem;
+  background: #ffebee;
+  background-clip: padding-box;
+  box-shadow: 0 12px 15px 0 rgba(0,0,0,0.25);
+  opacity: 0;
+  -webkit-transition: all 0.25s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.25s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.modal__content--active {
+  opacity: 1;
+}
+.modal__close {
+  z-index: 1100;
+  cursor: pointer;
+}
+.modal__trigger {
+  position: relative;
+  display: inline-block;
+  padding: 1.2rem 2.4rem;
+  color: rgba(0,0,0,0.7);
+  line-height: 1;
+  cursor: pointer;
+  background: #ffebee;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.26);
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  -webkit-transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.modal__trigger--active {
+  z-index: 10;
+}
+.modal__trigger:hover {
+  background: #e5d3d6;
+}
+#modal__temp {
+  will-change: transform, opacity;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #ffebee;
+  -webkit-transform: none;
+          transform: none;
+  opacity: 1;
+  -webkit-transition: opacity 0.1s ease-out, -webkit-transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: opacity 0.1s ease-out, -webkit-transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: opacity 0.1s ease-out, transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: opacity 0.1s ease-out, transform 0.5s cubic-bezier(0.23, 1, 0.32, 1), -webkit-transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+
