@@ -1,1 +1,1 @@
-<?php header( 'Location: https://hergerburger.com/first.html' ); ?>
+<?php header( 'Location: https://herger.me/first.html' ); ?>
