@@ -1,0 +1,1 @@
+<?php header( 'Location: https://hergerburger.com/first.html' ); ?>
