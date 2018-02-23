@@ -46,6 +46,23 @@ a:hover {color:pink;}
 
 
 
+/* index big title */
+ 
+#index-text {	font-family: 'Oswald', sans-serif;
+				font-size: 800%;
+				margin-top: 30px;
+				line-height: 1;
+				 font-weight: bold;
+				 word-break: normal;
+				 color: white;
+				 display: block;
+				 
+				 }
+a:hover { color: pink;
+					text-decoration: underline;
+					}
+
+
 
 
 .hello img {margin-top: 25%;}
@@ -271,27 +288,16 @@ h3 {font-family: 'Oswald', sans-serif;
 
 
     
-#footer {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    width: 100%;
-    border: none;
-	background-color: #525452;
-	padding: 5px;
-	
-} 
 
-#footer .footer-text {	font-family:'Oswald', sans-serif, bold; 
+
+#footer .footer-text p {	font-family:'Oswald', sans-serif, bold; 
 						font-size: 60%;
 						color: white;
-						background-color: #525452;
 						text-align: center;
 						margin: 0px;
 						
 						position: fixed; 
-						bottom: 20px;}
+						bottom: 0px;}
 
 /* nav text */
 
