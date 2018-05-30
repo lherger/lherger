@@ -576,10 +576,10 @@ visibility: visible;}
 /* CSS for about me page */
 #about-me img {display: block;
 float: left;
-clear: none;
+clear: left;
 margin: 2%;
 margin-top:0;
-margin-bottom:0;}
+margin-bottom:2%;}
 
 #about-me p {
 	font-family: 'Oswald', sans-serif;
