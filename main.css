@@ -5,7 +5,7 @@ body {
 	
 h1 {font-family: 'Oswald', sans-serif, bold;
 	text-align: center;
-	font-size: 400%;
+	font-size: 300%;
 	color: #525452;
 	margin-left: 30px;
 	margin-bottom: 0px;
@@ -15,7 +15,7 @@ h1 {font-family: 'Oswald', sans-serif, bold;
 h2 {font-family: 'Dosis', sans-serif;
 	font-size: 100%;
 	text-align: center;
-	color: white;
+	color: #696969;
 	margin-left: 20px;
 	margin-top: 0px;
 	}
@@ -26,7 +26,7 @@ h3 {font-family: 'Dosis', sans-serif;
 	color: #525452;
 	margin-top: 10px;
 	}
-a {color: white;}	
+a {color: #525452;}	
 a:hover {color:pink;}
 	
 .subtitle { font-family: 'Dosis', sans-serif;
@@ -58,8 +58,8 @@ a:hover {color:pink;}
 				 display: block;
 				 
 				 }
-a:hover { color: pink;
-					text-decoration: underline;
+a:hover { color: #CD0081;
+					font-style: italic;
 					}
 
 
@@ -76,13 +76,12 @@ nav {text-align: center;}
 #pages-nav li {display:inline-block;
 				font-family: 'Oswald', sans-serif, bold;
 				font-size: 1em;
-				padding: 10px;
-			 	border-style: solid;
-			 	border-width: 2px;
-			 	border-color: white; 
+				padding: 5px;
+			 	
+			 	border-color: #525452; 
 			 	background-color:none; 
-			 	margin-bottom: 5px;
-			 	margin-top: 5px;
+			 	margin-bottom: 0px;
+			 	margin-top: 0px;
 			 	margin-right: 0;
 			 	text-align: center;
 				
@@ -118,7 +117,7 @@ nav {text-align: center;}
 
 #footer .footer-text {	font-family: 'Dosis', sans-serif; 
 						font-size: 80%;
-						color: white;
+						color: #525452;
 						
 						text-align: center;
 						margin: 0px;}
@@ -133,10 +132,10 @@ nav {text-align: center;}
 
 a {
     text-decoration: none;
-    color: #fff;
+    color: #525452;
 }
 p > a:hover{
-    color: #d9d9d9;
+    color: #525452;
     text-decoration:  underline;
 }
 
@@ -163,7 +162,7 @@ ul {
 
 	 
 .social-icons a {
-    color: #fff;
+    color: #525452;
     }
     
     
@@ -585,7 +584,7 @@ margin-bottom:2%;}
 	font-family: 'Oswald', sans-serif;
 	font-size: 100%;
 	text-align: left;
-	color: white;
+	color: #525452;
 	margin-left: 0px;
 	margin-top: 0px;
 	margin-bottom:0;
